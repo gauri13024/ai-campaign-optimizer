@@ -83,5 +83,3 @@ The browser will automatically open at `http://localhost:8501`.
 | **Optimization Algorithms** | Multi-Objective Pareto Frontier | `nsga2_optimizer.py`, `linear_programming_optimizer.py` | NSGA-II evolutionary search, PuLP knapsack solver, Contextual Bandit policies. |
 | **Predictive AI Modeling** | Supervised Response & CLV Prediction | `conversion_model.py`, `clv_revenue_model.py` | LightGBM, XGBoost, CatBoost, Neural Networks, SHAP feature attribution. |
 
-For internal team role breakdowns and viva examination cheat sheets, refer to [`docs/STUDENT_ROLE_GUIDES.md`](docs/STUDENT_ROLE_GUIDES.md).  
-For the complete technical paper, refer to [`docs/PROJECT_REPORT.md`](docs/PROJECT_REPORT.md).
